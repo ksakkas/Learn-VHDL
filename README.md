@@ -11,7 +11,11 @@
 <hr>
 <h2>Εισαγωγή στην VHDL</h2>
 <ul>
-<li><a href="./Code/entity.vhd">Οντότητα</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/entity.vhd">Οντότητα</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/architecture.vhd">Αρχιτεκτονική</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/libr.vhd">Δήλωση Βιβλιοθηκών και Πακέτων - δομή προγράμματος</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/apar.vhd">Παράδειγμα Απαριθμητή</a></li> 
+
 
 </ul>
 

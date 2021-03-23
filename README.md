@@ -69,7 +69,14 @@
 <li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/generic_map.vhd">Η δήλωση GENERIC MAP</a></li> 
 <hr>
 <h2>Lab Circuit </h2>
-<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/generic_map.vhd">Συγκριτής</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/comparator1.vhd">Συγκριτής</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/fulladder.vhd">Πλήρης Αθροιστής</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/multi.vhd">Πολλαπλασιασμός σε Σήματα</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/mux2_1.vhd">MUX 2 σε 1</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/part2.vhd">Παράδειγμα (part2)</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/seg_7.vhd">Seven Segment Display</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/signed_arith.vhd">Πράξεις με προσημασμένους</a></li> 
+
 
 </ul>
 

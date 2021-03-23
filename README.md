@@ -10,6 +10,23 @@
 <hr>
 <h2>Εισαγωγή στην VHDL</h2>
 <ul>
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/and3.vhd">Πύλη AND 3 εισόδων</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/and3.vhd">Πύλη AND 3 εισόδων</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/full_adder.vhd">Οντότητα Πλήρη Αθροιστή</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/nand_comp.vhd">Η πύλη NAND</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/nor_gate.vhd">Οντότητα πύλης NOR</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/xor_with_nand.vhd">XOR με NAND</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/arithm1.vhd">Αριθμητικό Παράδειγμα</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/cos.vhd">Οντότητα COS</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/counter1.vhd">Μετρητής</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/fixed_length_series.vhd">Σειρά Σταθερού Μήκους</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/tri_state_1.vhd">Καταστάσεις</a></li> 
+</ul>
+
+<hr>
+
+<h2>Κυκλώματα στην VHDL</h2>
+<ul>
 <li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/entity.vhd">Οντότητα</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/architecture.vhd">Αρχιτεκτονική</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/libr.vhd">Δήλωση Βιβλιοθηκών και Πακέτων - δομή προγράμματος</a></li> 
@@ -50,6 +67,10 @@
 <li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/components.vhd">Δομικά στοιχεία (components)</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/package.vhd">Βιβλιοθήκες και πακέτα</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/generic_map.vhd">Η δήλωση GENERIC MAP</a></li> 
+<hr>
+<h4>Lab Circuit </h4>
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/generic_map.vhd">Συγκριτής</a></li> 
+
 </ul>
 
 </body>

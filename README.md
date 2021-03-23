@@ -6,7 +6,7 @@
 <h1> Learn VHDL</h1>
 <p> Τμήμα Πληροφορικής & Τηλεπικοινωνιών </p>
 <p> Κωνσταντίνος Σακκάς</p>
-<p>Copyright © 2020 Κωνσταντίνος Σακκάς. Με την επιφύλαξη παντός δικαιώματος</p>
+<p>Copyright © 2021 Κωνσταντίνος Σακκάς. Με την επιφύλαξη παντός δικαιώματος</p>
 <hr>
 <h2>Εισαγωγή στην VHDL</h2>
 <ul>
@@ -68,7 +68,7 @@
 <li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/package.vhd">Βιβλιοθήκες και πακέτα</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/generic_map.vhd">Η δήλωση GENERIC MAP</a></li> 
 <hr>
-<h4>Lab Circuit </h4>
+<h2>Lab Circuit </h2>
 <li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/generic_map.vhd">Συγκριτής</a></li> 
 
 </ul>

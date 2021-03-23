@@ -76,6 +76,14 @@
 <li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/part2.vhd">Παράδειγμα (part2)</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/seg_7.vhd">Seven Segment Display</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/signed_arith.vhd">Πράξεις με προσημασμένους</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/compare.vhd">Συγκρίσεις</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/Decoder_2to4.vhd">Αποκωδικοποιητής 2 σε 4</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/mux.vhd">Πολυπλέκτης</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/mux2_2.vhd">Πολυπλέκτης 2</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/part2_2.vhd">Παράδειγμα 2 (part2)</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/part3.vhd">Παράδειγμα (part3)</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/priority_coder.vhd">Κωδικοποιητής Προτεραιότητας</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-VHDL/blob/master/Code/priority_coder2.vhd">Κωδικοποιητής Προτεραιότητας 2</a></li> 
 
 
 </ul>
